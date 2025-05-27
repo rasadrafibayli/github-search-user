@@ -103,5 +103,5 @@ function displayUser(user) {
 }
 
 window.onload = () => {
-    fetchUserData("atakishialiyev")
+    fetchUserData("rasadrafibayli")
 }
